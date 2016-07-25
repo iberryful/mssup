@@ -15,7 +15,7 @@ setup(
     mssup = mssup.mssup:main
     """,
     url='https://github.com/iberryful/mssup',
-    extras_require={
+    install_requires={
         'mssapi': ['mssapi'],
         'click': ['click'],
     },
