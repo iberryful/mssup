@@ -1,6 +1,10 @@
 # mssup
 A command line app for meituan object bucket
 
+##Install
+```shell
+pip install mssup
+```
 ##Usage
 Usage: mssup [OPTIONS] FILE_NAME
 
